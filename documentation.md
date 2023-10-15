@@ -79,7 +79,26 @@ Data Analytics Coursework
     </tbody>
 </table>
 
-Steps taken to clean data.
+<h1> Steps taken to clean data </h1>
+
+<h2> Removal of White Space and Quotes </h2>
+
+```python
+
+def clean_string(value):
+    value = value.replace(',', '')  #Comma Removal
+    value = value.replace('"', '').replace("'", "")  # Quotation Removal
+    value = value.strip()  # Redundant Space Trimming
+    value = value.replaceAll("[^a-zA-Z0-9]", "")  # Special Character Removal
+    return value  # Cleansed String Returned
+
+# Execute the changes
+return clean_string(value)
+
+
+```
+
+
 
 Replace age text with numerical equivalent. 
 
