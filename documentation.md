@@ -1,5 +1,84 @@
 Data Analytics Coursework
 
+<h1> Table of Changes </h1>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Attribute</th>
+            <th>Identified Issue</th>
+            <th>Error Type</th>
+            <th>Corrective Action</th>
+            <th>Old Value Example</th>
+            <th>New Value Example</th>
+            <th>Jython Script Used?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Checking Status</td>
+            <td>Mixed categorization (numerical and literal values)</td>
+            <td>Inconsistency</td>
+            <td>Standardize into clear categorical values</td>
+            <td>'&lt; 0 DM', 'no checking'</td>
+            <td>'negative', 'none'</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Credit History</td>
+            <td>Multiple categories with similar implications</td>
+            <td>Redundancy</td>
+            <td>Consolidated into fewer, clear categories</td>
+            <td>'no credits taken/ all credits paid back duly', 'existing credits paid back duly till now'</td>
+            <td>'paid', 'paid'</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Credit Amount</td>
+            <td>Numerical and widely distributed</td>
+            <td>Complexity</td>
+            <td>Binning into categorical values</td>
+            <td>1169, 5951</td>
+            <td>'low', 'moderate'</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Savings</td>
+            <td>Mixed numerical and literal categorization</td>
+            <td>Inconsistency</td>
+            <td>Standardize into clear categorical values</td>
+            <td>'.. >= 1000 DM ', 'unknown/ no savings account'</td>
+            <td>'high', 'none-found'</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Personal Status</td>
+            <td>Combined attributes (gender and marital status)</td>
+            <td>Complexity</td>
+            <td>Split into two separate columns</td>
+            <td>'male single'</td>
+            <td>-</td>
+            <td>Yes</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Age</td>
+            <td>Numerical and widely distributed</td>
+            <td>Complexity</td>
+            <td>Binning into categorical values</td>
+            <td>67, 22</td>
+            <td>'senior', 'young adult'</td>
+            <td>Yes</td>
+        </tr>
+    </tbody>
+</table>
+
 Steps taken to clean data.
 
 Replace age text with numerical equivalent. 
