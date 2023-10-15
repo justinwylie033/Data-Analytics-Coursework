@@ -81,7 +81,7 @@ Data Analytics Coursework
 
 <h1> Steps taken to clean data </h1>
 
-<h2> Removal of White Space and Quotes </h2>
+<h2> Intital cleaning of string values </h2>
 
 ```python
 
