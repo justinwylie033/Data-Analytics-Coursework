@@ -104,7 +104,9 @@ Replace age text with numerical equivalent.
 
 Replace ages less than minimum credit application age and maximum living age with the medium age value as an imputation.
 
-# Check if the age is less than 18 or more than 122, and if so, replace it with 33, otherwise leave it as is.
+<h2> Imputation of Outliers Using Column Computed Median </h2>
+
+# Remove applicant ages less than minimum credit application age and over maximum human lifespan, replace with computed column median - "33"
 
 ```python
 
