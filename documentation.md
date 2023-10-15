@@ -68,26 +68,5 @@ else:
 
 ```
 
-Savings nominal binning 
-
-```python
-# Example Jython script for OpenRefine to re-categorize 'Savings' column
-
-value = getValue('Savings').value 
-
-# get the current value in 'Savings' column
-# Define mapping from original categories to new categories
-savings_mapping = {
-    'none-found': ‘unknown’,
-    'moderate-high': ‘high’,
-    'high': 'very_high’,
-    'moderate': 'moderate'
-}
-
-# Return the new category
-return savings_mapping.get(value, 'Unknown')  # default to 'Unknown' for any unforeseen values
-
-```
-
 
 ![image](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/b43d2832-fe90-43e5-9b93-b6cc124960e3)
