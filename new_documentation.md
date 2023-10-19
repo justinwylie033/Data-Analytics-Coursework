@@ -61,6 +61,37 @@ else:
 ```
 [Figure 1D]
 
+```html
+<table border="1">
+    <tr>
+        <th>Original Column Name</th>
+        <th>Changes Made</th>
+        <th>Change Justification</th>
+    </tr>
+    <tr>
+        <td>purpose</td>
+        <td>Split into 'Credit Item Category' and 'Credit Item Condition'</td>
+        <td>To differentiate between the type of credit item and its condition.</td>
+    </tr>
+    <tr>
+        <td>employment</td>
+        <td>Split into 'Employment Term' and 'Employed'</td>
+        <td>To separate the duration of employment from the employment status.</td>
+    </tr>
+    <tr>
+        <td>personal_status</td>
+        <td>Split into 'Gender' and 'Marital Status'</td>
+        <td>To distinctly capture gender and marital status information.</td>
+    </tr>
+    <tr>
+        <td>job</td>
+        <td>Split into 'Employment Skill Class', 'Self Employed/Management', and 'Residential Status'</td>
+        <td>To capture different facets of employment - skill level, management status, and residential status.</td>
+    </tr>
+</table>
+
+```
+
 
 
 
