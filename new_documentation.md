@@ -36,7 +36,8 @@ return clean_string(value)
 
 ```
 [Figure 1B]
-![Steps Taken To convert columns to lowercase](/Images/Lowercase.jpg)
+![Description of the image](https://github.com/justinwylie033/Data-Analytics-Coursework/raw/main/Images/Lowercase.jpeg)
+
 
 
 
