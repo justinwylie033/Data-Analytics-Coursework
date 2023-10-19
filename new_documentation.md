@@ -22,7 +22,7 @@ The decision to convert all nominal column values to lower case was an administr
 
 <h3> Justification </h3>
 
-Data entry errors within a dataframe can lead to misinterpretations and skewed results. In the age column I handled this by ensuring that ages below 18 and over 122 were eradicated. The reasoning behind this was germany has a minimum application age of 18 and the oldest ever living human observed is 122 years old. see [Figure 1C] for the Jython scipt used to make these changes.
+Data entry errors within a dataframe can lead to misinterpretations and skewed results. In the age column I handled this by ensuring that ages below 18 and over 122 were eradicated. The reasoning behind this was germany has a minimum application age of 18 and the oldest ever living human observed is 122 years old. To remedy this used imputation a comman data cleaning technique. I calculated the column age median and injected this into the cells of the outliers. See [Figure 1C] for the Jython scipt used to make these changes. 
 
 <h3> Appendix </h3>
 
@@ -44,6 +44,15 @@ return clean_string(value)
 [Figure 1B]
 ![Image 19-10-2023 at 18 47](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/0dc7689c-e1df-40dc-adcc-7219803817b3)
 
+[Figure 1C]
+```python
+# Check if the age is less than 18 or more than 122, and if so, replace it with 33, otherwise leave it as is.
+if cells['Applicant Age'].value < 18 or cells['Applicant Age'].value > 122:
+    return 33
+else:
+    return cells['Applicant Age'].value
+
+```
 
 
 
