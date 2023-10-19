@@ -61,7 +61,7 @@ else:
 ```
 [Figure 1D]
 
-| Original Column Name | Changes Made | Change Justification |
+| Original Column Name | Splits Performed | Change Justification |
 |----------------------|--------------|----------------------|
 | purpose              | Split into 'Credit Item Category' and 'Credit Item Condition' | To differentiate between the type of credit item and its condition. |
 | employment           | Split into 'Employment Term' and 'Employed' | To separate the duration of employment from the employment status. |
