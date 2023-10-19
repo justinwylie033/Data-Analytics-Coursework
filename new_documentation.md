@@ -28,7 +28,7 @@ def clean_string(value):
     value = value.replace('"', '').replace("'", "")  # Remove quotes
     value = value.strip()  # Trim spaces
     value = value.replaceAll("[^a-zA-Z0-9]", "")  # Remove special characters
-    return value![Image 19-10-2023 at 18 47](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/0dc7689c-e1df-40dc-adcc-7219803817b3)
+    return value
 
 
 # Use the function
@@ -36,8 +36,7 @@ return clean_string(value)
 
 ```
 [Figure 1B]
-![Description of the image](https://github.com/justinwylie033/Data-Analytics-Coursework/raw/main/Images/Lowercase.jpeg)
-
+![Image 19-10-2023 at 18 47](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/0dc7689c-e1df-40dc-adcc-7219803817b3)
 
 
 
