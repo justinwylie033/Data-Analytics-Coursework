@@ -24,6 +24,12 @@ The decision to convert all nominal column values to lower case was an administr
 
 Data entry errors within a dataframe can lead to misinterpretations and skewed results. In the age column I handled this by ensuring that ages below 18 and over 122 were eradicated. The reasoning behind this was germany has a minimum application age of 18 and the oldest ever living human observed is 122 years old. To remedy this used imputation a comman data cleaning technique. I calculated the column age median and injected this into the cells of the outliers. See [Figure 1C] for the Jython scipt used to make these changes. 
 
+<h2>Column Division for Enhanced Meaning</h2>
+
+<h3> Justification </h3>
+
+I conducted manual splitting with some of the columns throughout the dataset in order to extract maximal meaning from every single cell. For Example it ensures that variables like marital status are seperated from gender in an attempt to conduct more thourough analysis such as which factor has more weight in terms of a positive credit classification. It allows for more complex visualisations to be made. Additionally for future processing withing python "matplotlib" or similar data visualisation libraries. Please refer to table of changes to become furtherly educated with column splitting conducted. [Figure 1D]
+
 <h3> Appendix </h3>
 
 [Figure 1A]
@@ -53,6 +59,8 @@ else:
     return cells['Applicant Age'].value
 
 ```
+[Figure 1D]
+
 
 
 
