@@ -35,6 +35,18 @@ I conducted manual splitting with some of the columns throughout the dataset in 
 <h3> Justification </h3>
 I conducted categorical binning in order to consolidate some of the data present such as classifying age as young adult, senior and the like for an easier initial view for the data and narrowing down data possibilities while minimising the effect of potential outliers and their impact on dataset skew. A sensible low and high bin successfully mitigated this risk. See [Figure 1F] for more info on categorical binning.
 
+<h2> Professionalism of Credit Status Wording</h2>
+
+<h3> Justification </h3>
+The credit class classification before was "good" or "bad", I have modified these values to now be "positive" and "negative" respectively, I replaced values which did not match this such as numerical values "0" and "1" with as this represents the column computed mode and prevents skewing. It also allowed for more professionalism when labeling those with unfortunate credit profiles and reduces derogatory tagging. This could also increase public opinion of the bank should the data be found in consumer hands for any reason.
+
+<h2> Value Overlap Consolidation</h2>
+<h3> Justification</h3>
+
+Certain values were so similar I decided to merge them for a clearer picture and to avoid overlapping of data which can be consolodated. Examples include merging "existing paid" and "all paid" as just paid. or "domestic appliance" and furniture/equipment as "household-equiptment"
+
+
+
 <h3> Appendix </h3>
 
 [Figure 1A]
