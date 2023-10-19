@@ -16,7 +16,13 @@ The addition of column headers was perhaps and unnecessary change to some but, s
 
 <h3> Justification </h3>
 
-The decision to convert all nominal column values to lower case was an administrative change that facilitated better indexing of the credit data within python and allowed records such as "radio/tv" and "Radio/Tv" to be merged. This was essential as computers need exact duplication for categorical conjoinment. This also allows the data to be looked at more easily in a manual manner. This is a common operation provided out of the box by openrefine. See [Figure1B].
+The decision to convert all nominal column values to lower case was an administrative change that facilitated better indexing of the credit data within python and allowed records such as "radio/tv" and "Radio/Tv" to be merged. This was essential as computers need exact duplication for categorical conjoinment. This also allows the data to be looked at more easily in a manual manner. This is a common operation provided out of the box by openrefine. See [Figure 1B].
+
+<h2> Mofification Of Age Outliers</h2>
+
+<h3> Justification </h3>
+
+Data entry errors within a dataframe can lead to misinterpretations and skewed results. In the age column I handled this by ensuring that ages below 18 and over 122 were eradicated. The reasoning behind this was germany has a minimum application age of 18 and the oldest ever living human observed is 122 years old. see [Figure 1C] for the Jython scipt used to make these changes.
 
 <h3> Appendix </h3>
 
