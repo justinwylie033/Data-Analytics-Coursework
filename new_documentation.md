@@ -30,6 +30,11 @@ Data entry errors within a dataframe can lead to misinterpretations and skewed r
 
 I conducted manual splitting with some of the columns throughout the dataset in order to extract maximal meaning from every single cell. For Example it ensures that variables like marital status are seperated from gender in an attempt to conduct more thourough analysis such as which factor has more weight in terms of a positive credit classification. It allows for more complex visualisations to be made. Additionally for future processing withing python "matplotlib" or similar data visualisation libraries. Please refer to table of changes to become furtherly educated with column splitting conducted. [Figure 1D]
 
+<h2> Categorical Binning </h2>
+
+<h3> Justification </h3>
+I conducted categorical binning in order to consolidate some of the data present such as classifying age as young adult, senior and the like for an easier initial view for the data and narrowing down data possibilities while minimising the effect of potential outliers and their impact on dataset skew. A sensible low and high bin successfully mitigated this risk. See [Figure 1F] for more info on categorical binning.
+
 <h3> Appendix </h3>
 
 [Figure 1A]
@@ -67,6 +72,17 @@ else:
 | employment           | Split into 'Employment Term' and 'Employed' | To separate the duration of employment from the employment status. |
 | personal_status      | Split into 'Gender' and 'Marital Status' | To distinctly capture gender and marital status information. |
 | job                  | Split into 'Employment Skill Class', 'Self Employed/Management', and 'Residential Status' | To capture different facets of employment - skill level, management status, and residential status. |
+
+[Figure 1F]
+| Original Column | Original Values | Binned Values | Binning Justification |
+|-----------------|-----------------|---------------|-----------------------|
+| Checking Status | '0<=X<200', 'no checking', '<0', '>=200' | low, none, negative, moderate | Grouped values based on account status and balance ranges |
+| Credit History | 'existing paid', 'critical/other existing credit', 'delayed previously', 'no credits/all paid', 'all paid' | paid, critical, delayed | Consolidated similar credit histories |
+| Savings | '<100', 'no known savings', '500<=X<1000', '>=1000', '100<=X<500' | low, none-found, moderate-high, high, moderate | Binned savings amounts into generalized categories |
+| Employment Term | '1<=X<4', '4<=X<7', '>=7', unemployed, '<1' | medium, medium-long, long, nan, short | Grouped employment durations and conditions |
+| Age | 22.0, 49.0, 0.45, 53.0, ... (and so on) ... 3.6, thirty, 59.0 | young adult, adult, senior | Grouped age values into broad age categories |
+
+
 
 
 
