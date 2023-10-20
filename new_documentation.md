@@ -202,8 +202,9 @@ return mapping.get(value, value)
 [Figure 2M] Employment Skill Class Transformation
 
 ```python
-mapping = {'adult': 0, 'senior': 1, 'young adult': 2}
+mapping = {'good': 0, 'highly skilled': 1, 'skilled': 2, 'unskilled': 3}
 return mapping.get(value, value)
+
 ```
 
 [Figure 2N] Self Employed/Management Transformation 
