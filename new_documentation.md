@@ -45,6 +45,11 @@ The credit class classification before was "good" or "bad", I have modified thes
 
 Certain values were so similar I decided to merge them for a clearer picture and to avoid overlapping of data which can be consolodated. Examples include merging "existing paid" and "all paid" as just paid. or "domestic appliance" and furniture/equipment as "household-equiptment"
 
+<h2> Nominal To Numeric Dataset Conversion Using Label Encoding </h2>
+
+<h3>Justification</h3>
+
+Label Encoding was a way to 
 
 
 <h3> Appendix </h3>
@@ -94,9 +99,132 @@ else:
 | Employment Term | '1<=X<4', '4<=X<7', '>=7', unemployed, '<1' | medium, medium-long, long, nan, short | Grouped employment durations and conditions |
 | Age | 22.0, 49.0, 0.45, 53.0, ... (and so on) ... 3.6, thirty, 59.0 | young adult, adult, senior | Grouped age values into broad age categories |
 
+[Figure 2A] - Table of Transformations
 
+| Column | Transformation Mapping |
+|--------|------------------------|
+| Checking Status | 'low': 0, 'moderate': 1, 'negative': 2, 'none': 3 |
+| Credit History | 'critical': 0, 'delayed': 1, 'paid': 2 |
+| Credit Item Category | 'business': 0, 'car': 1, 'education': 2, 'eduction': 3, 'household-equipment': 4, 'now car'': 5, 'other': 6, 'radio/tv': 7, 'repairs': 8, 'retraining': 9 |
+| Credit Item Condition | 'new': 0, 'unknown': 1, 'used': 2 |
+| Credit Amount | 'high': 0, 'low': 1, 'moderate': 2, 'very high': 3 |
+| Savings | 'high': 0, 'low': 1, 'moderate': 2, 'moderate-high': 3, 'none-found': 4 |
+| Employment Term | 'long': 0, 'medium': 1, 'medium-long': 2, 'nan': 3, 'short': 4 |
+| Employed | 'no': 0, 'yes': 1 |
+| Gender | 'female': 0, 'male': 1 |
+| Marital Status | 'div/dep/mar': 0, 'div/sep': 1, 'mar/wid': 2, 'single': 3 |
+| Applicant Age | 'adult': 0, 'senior': 1, 'young adult': 2 |
+| Employment Skill Class | 'good': 0, 'highly skilled': 1, 'skilled': 2, 'unskilled': 3 |
+| Self Employed/Management | 'no': 0, 'yes': 1 |
+| Residential Status | 'non-resident': 0, 'resident': 1, 'unknown': 2 |
+| Credit Status | 'negative': 0, 'positive': 1 |
 
+[Figure 2B] - Checking Status Transformation
 
+```python
+if value == 'low':
+    return 0
+elif value == 'moderate':
+    return 1
+elif value == 'negative':
+    return 2
+elif value == 'none':
+    return 3
+else:
+    return value
 
+```
+[Figure 2C] - Credit History Transformation
+
+```python
+if value == 'critical':
+    return 0
+elif value == 'delayed':
+    return 1
+elif value == 'paid':
+    return 2
+else:
+    return value
+
+```
+[Figure 2D] - Credit Item Category Transformation
+```python
+mapping = {'business': 0, 'car': 1, 'education': 2, 'eduction': 3, 'household-equipment': 4, 
+           'now car': 5, 'other': 6, 'radio/tv': 7, 'repairs': 8, 'retraining': 9}
+return mapping.get(value, value)
+```
+[Figure 2E] - Credit Item Condition Transformation
+```python
+if value == 'new':
+    return 0
+elif value == 'unknown':
+    return 1
+elif value == 'used':
+    return 2
+else:
+    return value
+```
+[Figure 2F] - Credit Amount Transformation
+```python
+mapping = {'high': 0, 'low': 1, 'moderate': 2, 'very high': 3}
+return mapping.get(value, value)
+```
+[Figure 2G] - Savings Transformation\
+```python
+mapping = {'high': 0, 'low': 1, 'moderate': 2, 'moderate-high': 3, 'none-found': 4}
+return mapping.get(value, value)
+```
+[Figure 2H] - Employment Term Transformation
+```python
+mapping = {'long': 0, 'medium': 1, 'medium-long': 2, 'nan': 3, 'short': 4}
+return mapping.get(value, value)
+```
+[Figure 2I] - Employed Transformation
+```python
+mapping = {'no': 0, 'yes': 1}
+return mapping.get(value, value)
+```
+[Figure 2J] - Gender Transformation
+mapping = {'female': 0, 'male': 1}
+return mapping.get(value, value)
+
+[Figure 2K] - Marital Status Transformation
+```python
+mapping = {'div/dep/mar': 0, 'div/sep': 1, 'mar/wid': 2, 'single': 3}
+return mapping.get(value, value)
+```
+[Figure 2L] Applicant Age Transformation
+```python
+mapping = {'adult': 0, 'senior': 1, 'young adult': 2}
+return mapping.get(value, value)
+```
+[Figure 2M] Employment Skill Class Transformation
+
+```python
+mapping = {'adult': 0, 'senior': 1, 'young adult': 2}
+return mapping.get(value, value)
+```
+
+[Figure 2N] Self Employed/Management Transformation 
+
+```python
+mapping = {'no': 0, 'yes': 1}
+return mapping.get(value, value)
+```
+
+[Figure 2O] - Residential Status Transformation
+
+```python
+mapping = {'non-resident': 0, 'resident': 1, 'unknown': 2}
+return mapping.get(value, value)
+
+```
+
+[Figure 2P] - Credit Status Transformation
+```python
+mapping = {'negative': 0, 'positive': 1}
+return mapping.get(value, value)
+
+```
 
 
