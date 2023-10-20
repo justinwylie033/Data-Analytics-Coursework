@@ -49,7 +49,9 @@ Certain values were so similar I decided to merge them for a clearer picture and
 
 <h3>Justification</h3>
 
-Label Encoding was a way to 
+Label encoding offers a simple and efficient means of converting categorical data into a numerical format. This approach assigns a unique integer to each category, preserving the essence of the data without creating additional dimensions that can occur with methods like one-hot encoding. Label encoding is particularly suitable for datasets with a large number of categories within a feature, as it avoids expanding the data unnecessarily.
+
+For our dataset, this method allowed for a straightforward transformation, ensuring the data remained compact and interpretable.
 
 
 <h3> Appendix </h3>
