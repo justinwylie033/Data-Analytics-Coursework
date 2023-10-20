@@ -185,9 +185,10 @@ mapping = {'no': 0, 'yes': 1}
 return mapping.get(value, value)
 ```
 [Figure 2J] - Gender Transformation
+```python
 mapping = {'female': 0, 'male': 1}
 return mapping.get(value, value)
-
+```
 [Figure 2K] - Marital Status Transformation
 ```python
 mapping = {'div/dep/mar': 0, 'div/sep': 1, 'mar/wid': 2, 'single': 3}
