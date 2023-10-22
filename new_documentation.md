@@ -1,4 +1,6 @@
-<h1> <em> Data Cleaning Methods Invoked For Sanitation Of Banking Credit Records </em> </h1>
+<h1> Documentation of Data Cleaning and Visualisation Of Financial Banking Credit Records using OpenRefine and Weka Within Python </h1>
+
+<h2> <em> Data Cleaning Methods Invoked For Sanitation Of Banking Credit Records </em> </h2>
 
 <h2> Trimming Of White Space And Removal Of Quotation Marks </h2>
 
