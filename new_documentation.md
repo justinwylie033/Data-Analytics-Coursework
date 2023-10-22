@@ -449,5 +449,10 @@ if __name__ == "__main__":
 
 ```
 
+[Figure 5B] Terminal Output of Statistical Analysis
+
+
+![B285F91D-F126-49D4-AF45-9E6B8ACCBDEF_1_201_a](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/3615512a-8d8d-4459-b438-65ba329e6270)
+
 
 
