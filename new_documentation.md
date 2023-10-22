@@ -53,10 +53,29 @@ Certain values were so similar I decided to merge them for a clearer picture and
 
 Label encoding offers a simple and efficient means of converting categorical data into a numerical format. This approach assigns a unique integer to each category, preserving the essence of the data without creating additional dimensions that can occur with methods like one-hot encoding. Label encoding is particularly suitable for datasets with a large number of categories within a feature, as it avoids expanding the data unnecessarily.
 
-For our dataset, this method allowed for a straightforward transformation, ensuring the data remained compact and interpretable.
+For our dataset, this method allowed for a straightforward transformation, ensuring the data remained compact and interpretable. The details of script based conversion are available in [Figure 2A - Figure 2P]
 
+<h2> Algorithmic Conversion To ARFF Format For Further Analysis </h2>
 
+<h3> Justification </h3>
+
+To convert our cleaned nominal and numerical data to ARFF format I employed an automated python scipt in place of WEKA platform integrated conversion due to issues with the MacOS Weka Application struggling to locate the files for parsin. Details of this conversion can be found at [Figure 3A]
+
+<h2> Credit Class Distribution Visualisation - Personal and Employement Factors </h2>
+
+<h3> Justification/Description</h3> 
+
+Personal Status - We combined Employment and marital status to find out their relationship to credit worthiness and visualised them in a clear efficient manner with a bar chart and percentages. Each bar represents a unique combination of marital status and gender, with the height of the bar segments indicating the percentage of good and bad credits within that category. The percentage values annotated on the bars provide a clear and immediate understanding of the distribution, aiding in quick comparisons and analysis.
+
+Job Status - Relevance to Creditworthiness: Employment term is a significant factor in determining an individual’s financial stability and, consequently, their creditworthiness. Analysing credit class distribution across different employment terms can reveal trends and patterns that are vital for risk assessment. Similar to the personal status visualisation, representing the data in percentages standardizes the view across categories with varying sample sizes, facilitating a fair comparison.
+
+Visualisations and their mechanics are available in [Figure 4]
+
+    
 <h3> Appendix </h3>
+
+
+
 
 [Figure 1A]
 ``` python
@@ -232,5 +251,131 @@ mapping = {'negative': 0, 'positive': 1}
 return mapping.get(value, value)
 
 ```
+
+[Figure 3A] - CSV To ARFF Automated Conversion Script
+
+```python
+import pandas as pd
+
+def convert_to_arff(df, relation_name, filename):
+    """
+    Convert a DataFrame to ARFF file format and save it.
+
+    :param df: Pandas DataFrame
+    :param relation_name: The name of the dataset (relation) for the ARFF file
+    :param filename: File path to save the ARFF file
+    """
+    with open(filename, 'w') as f:
+        # Writing the relation name
+        f.write(f"@relation {relation_name}\n\n")
+
+        # Writing attribute information
+        for column in df.columns:
+            if df[column].dtype == 'object' or df[column].dtype.name == 'category':
+                unique_values = df[column].astype(str).unique()
+                f.write(f"@attribute {column} {{{', '.join(unique_values)}}}\n")
+            else:
+                f.write(f"@attribute {column} NUMERIC\n")
+
+        # Writing the data
+        f.write("\n@data\n")
+        for row in df.itertuples(index=False, name=None):
+            f.write(','.join(str(value) for value in row) + "\n")
+
+# File paths (relative)
+nominal_csv_path = "./cleaned-nominal-credits.csv"
+numerical_csv_path = "./cleaned-numerical-credits.csv"
+nominal_arff_path = "./cleaned-nominal-credits.arff"
+numerical_arff_path = "./cleaned-numerical-credits.arff"
+
+# Reading the CSV files
+nominal_df = pd.read_csv(nominal_csv_path)
+numerical_df = pd.read_csv(numerical_csv_path)
+
+# Converting nominal CSV to ARFF
+convert_to_arff(nominal_df, "nominal_credits", nominal_arff_path)
+
+# Converting numerical CSV to ARFF
+convert_to_arff(numerical_df, "numerical_credits", numerical_arff_path)
+```
+
+[Figure 4A] - Data Visualisation using matplotlib
+
+```python
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Load the nominal credits dataset from the CSV file
+def load_data(file_path):
+    return pd.read_csv(file_path)
+
+# Restructure the dataset to include credit class distribution
+def restructure_dataset(df, status_column):
+    pivot_table = df.pivot_table(index=status_column, columns='Credit Status', aggfunc='size', fill_value=0)
+    pivot_table.columns = ['Bad Credit', 'Good Credit']
+    pivot_table['Total Credits'] = pivot_table['Bad Credit'] + pivot_table['Good Credit']
+    return pivot_table.sort_values(by='Total Credits', ascending=False)
+
+# Modified function to display percentage values on the bars
+def plot_credit_distribution_percentage(df, title, xlabel, ax):
+    sns.set_style("whitegrid")
+    
+    # Calculate percentages
+    df_percentage = df[['Bad Credit', 'Good Credit']].div(df['Total Credits'], axis=0) * 100
+    
+    # Create bar plot
+    df_percentage.plot(kind='bar', ax=ax, color=['#d9534f', '#5cb85c'], stacked=True)
+    
+    # Annotate bars with percentage values
+    for i, (index, row) in enumerate(df_percentage.iterrows()):
+        total_percentage = 0
+        for j, value in enumerate(row):
+            if value > 0:
+                ax.text(i, total_percentage + value / 2, f'{value:.1f}%', ha='center', va='center', color='white', fontsize=10)
+            total_percentage += value
+    
+    # Set plot properties
+    ax.set_title(title, fontsize=15)
+    ax.set_xlabel(xlabel, fontsize=12)
+    ax.set_ylabel('Percentage of Credits', fontsize=12)
+    ax.legend(["Bad Credit", "Good Credit"], loc='upper left', bbox_to_anchor=(1, 1))
+    ax.set_ylim(0, 100)
+    ax.set_xticklabels(df.index, rotation=45, ha='right')
+
+# Main function to run the analysis
+def main():
+    file_path = './cleaned-nominal-credits.csv'
+    df = load_data(file_path)
+    
+    # Combine "Marital Status" and "Gender" into a single category
+    df['Marital Status & Gender'] = df['Marital Status'] + ' & ' + df['Gender']
+    
+    # Create subplots for standardized visual representations
+    fig, axs = plt.subplots(2, 1, figsize=(12, 12))
+    
+    # Personal Status: Marital Status & Gender
+    combined_personal_status_df = restructure_dataset(df, 'Marital Status & Gender')
+    plot_credit_distribution_percentage(combined_personal_status_df, 'Credit Class Distribution by Marital Status & Gender', 'Marital Status & Gender', axs[0])
+    
+    # Job Status: Employment Term
+    employment_term_df = restructure_dataset(df, 'Employment Term')
+    plot_credit_distribution_percentage(employment_term_df, 'Credit Class Distribution by Employment Term', 'Employment Term', axs[1])
+    
+    plt.tight_layout()
+    plt.show()
+
+if __name__ == "__main__":
+    main()
+
+```
+[Figure 4B] Visualisations
+
+
+![Image 22-10-2023 at 15 59](https://github.com/justinwylie033/Data-Analytics-Coursework/assets/121656622/1f30f274-6486-430f-8531-2e0036706407)
+
+
+
 
 
