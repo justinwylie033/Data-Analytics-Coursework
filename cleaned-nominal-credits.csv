@@ -1,0 +1,1000 @@
+﻿Checking Status,Credit History,Credit Item Category,Credit Item Condition,Credit Amount,Savings,Employment Term,Employed,Gender,Marital Status,Applicant Age,Employment Skill Class,Self Employed/Management,Residential Status,Credit Status
+low,paid,radio/tv,unknown,high,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,eduction,unknown,moderate,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,high,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,delayed,car,new,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,negative
+none,paid,education,unknown,high,none-found,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,moderate,moderate-high,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,car,used,high,low,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,moderate,high,medium-long,yes,male,div/sep,senior,unskilled,no,resident,positive
+low,critical,car,new,high,low,N/A,no,male,mar/wid,young adult,highly skilled,yes,unknown,negative
+low,paid,car,new,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,business,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,critical,car,new,low,low,long,yes,male,single,senior,unskilled,no,resident,negative
+negative,paid,car,new,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,moderate,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+none,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+negative,paid,business,unknown,high,none-found,short,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,car,used,very high,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,short,yes,male,single,adult,unskilled,no,resident,positive
+low,critical,car,used,moderate,moderate,short,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,none-found,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,low,low,long,yes,male,mar/wid,adult,unskilled,no,resident,positive
+moderate,paid,radio/tv,unknown,low,high,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,delayed,business,unknown,high,low,long,yes,male,single,senior,skilled,no,unknown,negative
+low,paid,business,unknown,moderate,high,short,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,car,new,high,moderate,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,business,unknown,low,none-found,long,yes,male,single,senior,unskilled,no,resident,positive
+moderate,paid,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,short,yes,male,single,young adult,unskilled,no,resident,negative
+none,critical,education,unknown,high,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+moderate,paid,household-equipment,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,radio/tv,unknown,low,moderate-high,medium,yes,male,div/sep,young adult,skilled,no,unknown,positive
+low,delayed,repairs,unknown,high,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,critical,car,used,high,moderate,medium-long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,critical,car,used,high,low,long,yes,female,div/dep/mar,senior,unskilled,no,resident,negative
+none,critical,car,new,low,low,short,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,used,low,moderate-high,N/A,no,female,div/dep/mar,adult,unskilled,no,non-resident,positive
+none,critical,now car',unknown,high,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,moderate,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,delayed,household-equipment,unknown,moderate,none-found,short,yes,male,single,young adult,unskilled,no,resident,positive
+low,delayed,car,used,high,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,low,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,delayed,car,new,moderate,low,long,yes,male,single,senior,skilled,no,unknown,negative
+none,paid,now car',unknown,low,none-found,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,high,none-found,N/A,no,male,single,senior,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,high,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+moderate,paid,car,new,moderate,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+negative,critical,household-equipment,unknown,high,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,business,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,low,long,yes,male,single,senior,highly skilled,yes,unknown,negative
+low,paid,business,unknown,very high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,repairs,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,car,new,low,high,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,paid,education,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,car,used,high,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,male,single,adult,unskilled,no,resident,positive
+negative,critical,other,unknown,low,low,long,yes,male,single,senior,highly skilled,yes,unknown,positive
+low,critical,business,unknown,high,low,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,eduction,unknown,moderate,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+negative,critical,car,used,moderate,low,long,yes,male,single,senior,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,short,yes,male,single,adult,skilled,no,unknown,negative
+low,delayed,radio/tv,unknown,moderate,low,medium-long,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,car,used,high,none-found,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,household-equipment,unknown,moderate,low,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,high,none-found,short,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,low,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,moderate,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+negative,paid,other,unknown,moderate,low,long,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,long,yes,male,single,senior,unskilled,no,resident,positive
+none,critical,business,unknown,low,low,medium,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+low,critical,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,education,unknown,very high,moderate,medium,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,car,new,moderate,moderate,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,repairs,unknown,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+none,critical,radio/tv,unknown,low,low,long,yes,male,single,senior,skilled,no,unknown,positive
+negative,critical,car,used,low,low,long,yes,male,single,senior,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+moderate,critical,household-equipment,unknown,moderate,none-found,long,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,car,new,low,high,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,business,unknown,very high,low,short,yes,male,single,senior,skilled,no,unknown,negative
+none,critical,education,unknown,moderate,none-found,medium-long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,moderate,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,delayed,car,used,high,none-found,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,new,low,moderate,long,yes,male,mar/wid,adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,none-found,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,critical,other,unknown,very high,low,medium,yes,male,single,adult,highly skilled,yes,unknown,negative
+none,paid,car,new,high,low,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+low,paid,car,new,high,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,high,none-found,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,business,unknown,low,moderate-high,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+low,delayed,business,unknown,low,moderate,long,yes,male,div/sep,adult,skilled,no,unknown,positive
+moderate,paid,education,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,car,new,high,low,medium-long,yes,male,single,young adult,unskilled,no,resident,positive
+none,critical,car,new,high,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,high,none-found,medium-long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+negative,critical,household-equipment,unknown,moderate,none-found,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,critical,household-equipment,unknown,moderate,moderate-high,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,critical,car,new,moderate,moderate-high,medium-long,yes,male,div/sep,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,car,used,moderate,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+moderate,critical,car,new,low,low,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,none-found,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,adult,unskilled,no,resident,positive
+low,paid,repairs,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+low,critical,car,used,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,new,high,none-found,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,delayed,education,unknown,high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,household-equipment,unknown,moderate,low,short,yes,male,single,young adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,very high,moderate,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,delayed,car,used,high,high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,moderate-high,medium,yes,male,single,senior,unskilled,no,resident,negative
+low,critical,radio/tv,unknown,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+moderate,paid,car,new,low,high,short,yes,male,mar/wid,young adult,unskilled,no,non-resident,positive
+low,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,highly skilled,yes,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,car,new,low,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,car,new,low,moderate,medium-long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+negative,critical,household-equipment,unknown,high,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,high,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,critical,car,used,high,high,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,delayed,business,unknown,high,moderate,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,critical,repairs,unknown,low,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,retraining,unknown,low,low,long,yes,male,mar/wid,adult,unskilled,no,resident,positive
+low,paid,car,new,moderate,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,none-found,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,new,low,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,low,moderate-high,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,high,low,N/A,no,male,single,senior,highly skilled,yes,unknown,positive
+none,paid,car,new,low,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,low,N/A,no,female,div/dep/mar,adult,skilled,no,unknown,negative
+low,paid,household-equipment,unknown,moderate,high,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,critical,business,unknown,moderate,low,long,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,car,new,low,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,delayed,household-equipment,unknown,moderate,low,N/A,no,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+low,paid,radio/tv,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,delayed,education,unknown,moderate,low,short,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,car,used,high,none-found,N/A,no,female,div/dep/mar,senior,highly skilled,yes,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+negative,critical,radio/tv,unknown,low,moderate-high,long,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,critical,car,new,low,low,long,yes,male,single,senior,skilled,no,unknown,positive
+none,delayed,business,unknown,high,low,short,yes,male,div/sep,young adult,skilled,no,unknown,negative
+low,delayed,business,unknown,moderate,low,medium,yes,male,div/sep,adult,highly skilled,yes,unknown,negative
+negative,paid,car,new,moderate,none-found,medium,yes,male,single,adult,unskilled,no,resident,negative
+none,critical,household-equipment,unknown,moderate,high,medium,yes,male,single,senior,skilled,no,unknown,positive
+low,critical,car,new,low,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,radio/tv,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,used,high,low,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,negative
+low,critical,car,new,low,low,N/A,no,male,single,senior,unskilled,no,non-resident,positive
+negative,paid,radio/tv,unknown,low,moderate,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+low,paid,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,high,medium,yes,male,single,senior,highly skilled,yes,unknown,negative
+low,paid,business,unknown,moderate,moderate,medium-long,yes,male,single,adult,unskilled,no,resident,negative
+low,paid,business,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,moderate,medium,yes,male,single,young adult,skilled,no,unknown,negative
+low,critical,education,unknown,moderate,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,low,moderate,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,used,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+low,delayed,household-equipment,unknown,moderate,low,long,yes,male,div/sep,adult,highly skilled,yes,unknown,negative
+none,critical,education,unknown,low,moderate-high,long,yes,male,single,senior,skilled,no,unknown,positive
+negative,paid,car,new,low,low,medium,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+none,delayed,business,unknown,high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,retraining,unknown,low,low,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+none,critical,car,new,low,low,long,yes,male,single,adult,unskilled,no,resident,positive
+negative,critical,car,used,very high,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,business,unknown,high,low,medium,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+none,paid,car,used,low,high,medium-long,yes,male,single,senior,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,none-found,long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,business,unknown,high,low,N/A,no,male,single,senior,skilled,no,unknown,negative
+moderate,delayed,business,unknown,moderate,low,long,yes,male,single,senior,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+low,critical,retraining,unknown,low,none-found,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,business,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,div/sep,young adult,unskilled,no,resident,positive
+none,paid,car,new,low,low,medium,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,short,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+negative,paid,education,unknown,low,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,repairs,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,very high,high,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,high,low,long,yes,male,single,senior,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,short,yes,male,single,young adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,car,new,moderate,moderate-high,long,yes,male,single,senior,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,moderate,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,negative
+low,paid,car,new,very high,none-found,N/A,no,male,single,young adult,unskilled,no,non-resident,negative
+low,paid,business,unknown,moderate,moderate,long,yes,male,div/sep,senior,unskilled,no,resident,negative
+none,critical,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,low,none-found,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,senior,skilled,no,unknown,positive
+negative,paid,car,used,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,business,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,retraining,unknown,moderate,moderate-high,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,paid,business,unknown,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,low,long,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,car,new,low,moderate,medium,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,low,N/A,no,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,critical,car,new,low,high,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+moderate,paid,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+low,paid,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,delayed,household-equipment,unknown,moderate,moderate,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,none-found,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+low,delayed,radio/tv,unknown,high,none-found,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,div/sep,young adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,moderate,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,moderate,N/A,no,female,div/dep/mar,senior,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+negative,critical,car,new,high,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,education,unknown,moderate,low,long,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+none,critical,car,new,low,low,long,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,low,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,business,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,car,new,high,low,long,yes,male,div/sep,adult,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,low,none-found,long,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,low,moderate-high,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,car,new,very high,none-found,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,repairs,unknown,very high,low,short,yes,male,div/sep,adult,unskilled,no,resident,negative
+none,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,none-found,long,yes,male,div/sep,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,moderate,medium,yes,male,single,young adult,highly skilled,yes,unknown,positive
+none,critical,car,used,moderate,high,long,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,low,none-found,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,household-equipment,unknown,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+low,critical,car,new,moderate,moderate,short,yes,male,div/sep,adult,skilled,no,unknown,positive
+negative,paid,car,new,very high,low,short,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,car,used,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+low,delayed,other,unknown,high,moderate,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,delayed,radio/tv,unknown,low,low,short,yes,male,mar/wid,adult,skilled,no,unknown,negative
+none,paid,business,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,paid,car,used,high,low,short,yes,male,mar/wid,young adult,highly skilled,yes,unknown,negative
+negative,critical,car,used,high,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+moderate,critical,car,used,moderate,low,long,yes,male,single,senior,skilled,no,unknown,positive
+none,critical,business,unknown,high,none-found,long,yes,male,div/sep,adult,highly skilled,yes,unknown,positive
+low,paid,household-equipment,unknown,high,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,none-found,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,car,new,low,none-found,long,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,moderate,high,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,new,low,low,N/A,no,female,div/dep/mar,senior,unskilled,no,non-resident,positive
+low,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+moderate,critical,car,new,low,none-found,medium-long,yes,male,single,adult,unskilled,no,resident,negative
+negative,critical,car,new,low,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,new,very high,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,household-equipment,unknown,moderate,high,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,none-found,medium-long,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,low,moderate,short,yes,male,mar/wid,adult,unskilled,no,resident,negative
+low,paid,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,new,low,low,medium,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+low,paid,other,unknown,high,none-found,N/A,no,male,single,adult,unskilled,no,non-resident,positive
+none,paid,household-equipment,unknown,high,moderate,medium,yes,male,single,young adult,skilled,no,unknown,positive
+moderate,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,car,new,low,low,medium-long,yes,male,mar/wid,young adult,unskilled,no,resident,negative
+moderate,paid,car,new,low,none-found,short,yes,male,single,young adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,low,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,household-equipment,unknown,moderate,none-found,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,critical,education,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,delayed,household-equipment,unknown,moderate,low,long,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,critical,car,new,moderate,low,N/A,no,male,mar/wid,young adult,highly skilled,yes,unknown,negative
+negative,paid,radio/tv,unknown,moderate,low,short,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,car,used,moderate,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,household-equipment,unknown,moderate,high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,car,new,low,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,household-equipment,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,high,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,critical,car,used,high,low,N/A,no,male,single,senior,highly skilled,yes,unknown,positive
+none,critical,education,unknown,moderate,moderate,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+low,paid,car,new,high,moderate,short,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,negative
+none,critical,car,used,very high,moderate,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+negative,paid,household-equipment,unknown,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,critical,household-equipment,unknown,moderate,low,medium,yes,male,div/sep,adult,highly skilled,yes,unknown,negative
+low,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,low,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,low,medium,yes,male,div/sep,adult,unskilled,no,resident,positive
+low,critical,education,unknown,high,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,moderate-high,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+moderate,paid,car,new,moderate,low,short,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+low,critical,radio/tv,unknown,low,low,short,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,moderate-high,N/A,no,female,div/dep/mar,young adult,unskilled,no,non-resident,positive
+none,delayed,business,unknown,moderate,moderate,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,critical,education,unknown,low,high,long,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,car,used,moderate,none-found,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,education,unknown,low,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,low,low,short,yes,male,single,young adult,unskilled,no,resident,negative
+none,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,education,unknown,low,none-found,medium,yes,male,single,senior,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+moderate,delayed,car,new,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,N/A,no,male,single,young adult,unskilled,no,non-resident,negative
+none,paid,business,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,used,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+low,paid,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,car,new,very high,none-found,long,yes,male,single,senior,highly skilled,yes,unknown,positive
+low,paid,other,unknown,very high,moderate,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,negative
+negative,paid,business,unknown,high,low,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,delayed,radio/tv,unknown,moderate,low,N/A,no,male,mar/wid,adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,very high,low,long,yes,male,single,senior,highly skilled,yes,unknown,negative
+none,critical,car,new,low,moderate,medium,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,used,very high,low,N/A,no,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,paid,car,new,low,none-found,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+moderate,paid,car,new,low,low,short,yes,male,single,young adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,moderate,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,none-found,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,high,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+low,critical,business,unknown,moderate,moderate-high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,business,unknown,low,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,low,medium,yes,male,mar/wid,adult,highly skilled,yes,unknown,positive
+low,paid,household-equipment,unknown,low,high,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+negative,paid,car,new,moderate,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,critical,radio/tv,unknown,moderate,low,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+low,delayed,education,unknown,very high,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,N/A,no,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+negative,critical,household-equipment,unknown,moderate,low,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+low,paid,car,new,low,low,long,yes,male,div/sep,adult,skilled,no,unknown,negative
+none,critical,radio/tv,unknown,moderate,high,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,low,low,short,yes,male,mar/wid,adult,skilled,no,unknown,positive
+low,critical,business,unknown,moderate,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,delayed,business,unknown,high,low,short,yes,male,single,young adult,skilled,no,unknown,negative
+none,delayed,car,new,low,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+low,delayed,car,new,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,short,yes,male,mar/wid,adult,skilled,no,unknown,negative
+none,critical,car,used,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,very high,low,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,div/sep,young adult,highly skilled,yes,unknown,positive
+moderate,critical,car,new,low,moderate-high,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,moderate,low,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,car,used,high,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,business,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,negative
+none,paid,car,new,moderate,moderate-high,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,car,new,low,none-found,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,critical,car,used,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,moderate,low,short,yes,male,single,adult,unskilled,no,resident,negative
+negative,delayed,education,unknown,high,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,moderate-high,medium-long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+low,paid,car,new,low,none-found,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,car,new,moderate,high,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,car,used,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,critical,car,new,low,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+none,delayed,household-equipment,unknown,moderate,moderate,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,household-equipment,unknown,moderate,none-found,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,used,moderate,low,medium,yes,male,mar/wid,young adult,good,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,high,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,low,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,critical,repairs,unknown,low,low,N/A,no,female,div/dep/mar,senior,unskilled,no,non-resident,negative
+none,paid,business,unknown,moderate,low,medium-long,yes,male,single,senior,unskilled,no,resident,positive
+low,paid,other,unknown,very high,low,medium,yes,male,single,young adult,highly skilled,yes,unknown,negative
+negative,critical,household-equipment,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,repairs,unknown,moderate,low,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+none,paid,repairs,unknown,low,moderate-high,medium-long,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+none,critical,car,new,low,high,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,critical,repairs,unknown,moderate,low,N/A,no,male,single,senior,unskilled,no,non-resident,positive
+moderate,paid,business,unknown,low,low,short,yes,female,div/dep/mar,young adult,unskilled,no,non-resident,negative
+none,paid,car,new,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,delayed,other,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,education,unknown,low,low,long,yes,male,single,adult,unskilled,no,resident,negative
+low,critical,household-equipment,unknown,high,low,medium,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,critical,education,unknown,low,none-found,long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,car,new,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,household-equipment,unknown,low,none-found,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+low,delayed,repairs,unknown,moderate,high,medium,yes,male,mar/wid,senior,skilled,no,unknown,negative
+none,critical,car,used,very high,none-found,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,car,new,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,low,short,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,used,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,short,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,good,no,unknown,positive
+negative,paid,car,new,moderate,low,short,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,positive
+low,paid,retraining,unknown,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,used,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,positive
+negative,delayed,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+none,delayed,radio/tv,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,car,used,very high,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,very high,moderate,short,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+negative,paid,education,unknown,very high,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,car,new,low,low,medium,yes,male,single,young adult,unskilled,no,resident,negative
+none,paid,retraining,unknown,low,none-found,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+low,critical,radio/tv,unknown,low,low,medium,yes,male,mar/wid,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,moderate-high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,business,unknown,low,moderate,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,critical,household-equipment,unknown,low,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,paid,car,new,low,low,short,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,high,long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+none,delayed,household-equipment,unknown,low,high,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,car,new,low,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,delayed,car,new,low,low,N/A,no,male,single,adult,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,car,new,moderate,low,long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+none,paid,car,new,low,moderate,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,car,new,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,business,unknown,high,low,long,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,very high,moderate,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+low,paid,household-equipment,unknown,high,moderate,short,yes,male,single,young adult,highly skilled,yes,unknown,negative
+none,critical,household-equipment,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,long,yes,male,mar/wid,adult,unskilled,no,resident,positive
+moderate,critical,car,new,low,moderate,long,yes,male,div/sep,young adult,skilled,no,unknown,positive
+negative,paid,car,new,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,car,used,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,low,moderate,long,yes,male,div/sep,adult,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,low,moderate,short,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,car,new,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,new,low,none-found,medium,yes,male,single,young adult,unskilled,no,resident,negative
+moderate,critical,car,used,moderate,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,high,moderate,N/A,no,male,single,adult,highly skilled,yes,unknown,negative
+none,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,paid,car,used,high,moderate,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,car,new,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,low,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+moderate,paid,business,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+low,delayed,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,none-found,short,yes,male,single,senior,skilled,no,unknown,positive
+negative,critical,car,new,low,low,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,critical,car,new,low,low,short,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,household-equipment,unknown,high,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,car,new,low,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,repairs,unknown,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,high,low,medium,yes,male,single,senior,good,no,unknown,negative
+none,paid,car,used,moderate,moderate,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,paid,car,used,high,low,short,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,education,unknown,moderate,moderate,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,car,new,low,low,short,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,education,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,moderate,moderate,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,delayed,car,used,moderate,low,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,moderate,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,none-found,short,yes,male,single,young adult,skilled,no,unknown,positive
+moderate,critical,education,unknown,moderate,low,short,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,car,new,low,none-found,N/A,no,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+low,critical,household-equipment,unknown,moderate,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,car,new,high,low,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+moderate,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,low,short,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+none,delayed,car,new,moderate,low,long,yes,male,single,senior,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,negative
+moderate,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,negative
+none,critical,car,new,low,low,long,yes,male,single,senior,unskilled,no,resident,positive
+negative,delayed,car,new,low,low,N/A,no,male,single,adult,skilled,no,unknown,negative
+none,critical,car,new,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+none,critical,car,used,high,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,repairs,unknown,low,none-found,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,high,low,medium-long,yes,male,mar/wid,adult,skilled,no,unknown,negative
+low,critical,car,new,moderate,moderate,short,yes,male,single,young adult,skilled,no,unknown,positive
+low,paid,education,unknown,low,low,medium-long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+low,paid,radio/tv,unknown,low,low,short,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,car,new,moderate,moderate,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,new,high,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+low,critical,household-equipment,unknown,moderate,low,short,yes,male,single,adult,unskilled,no,resident,negative
+negative,paid,car,used,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,unskilled,no,resident,negative
+moderate,delayed,radio/tv,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,car,new,very high,none-found,medium,yes,male,single,adult,skilled,no,unknown,negative
+low,delayed,business,unknown,moderate,none-found,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,delayed,radio/tv,unknown,moderate,moderate,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,medium-long,yes,male,div/sep,adult,skilled,no,unknown,negative
+none,critical,radio/tv,unknown,moderate,high,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,high,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+none,critical,radio/tv,unknown,high,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,high,none-found,N/A,no,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+negative,paid,business,unknown,low,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,low,low,long,yes,male,single,young adult,unskilled,no,resident,positive
+none,critical,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,education,unknown,moderate,none-found,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,critical,car,new,moderate,low,short,yes,male,div/sep,young adult,skilled,no,unknown,negative
+none,paid,retraining,unknown,low,low,short,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+low,critical,car,new,low,low,long,yes,male,single,adult,skilled,no,unknown,negative
+low,critical,car,new,moderate,low,short,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,very high,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,repairs,unknown,moderate,low,short,yes,male,single,adult,unskilled,no,resident,negative
+none,paid,car,new,moderate,none-found,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,low,low,medium,yes,male,mar/wid,adult,unskilled,no,resident,negative
+negative,critical,household-equipment,unknown,moderate,low,long,yes,male,single,senior,skilled,no,unknown,negative
+negative,critical,radio/tv,unknown,low,low,medium-long,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+low,delayed,car,new,moderate,none-found,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,high,long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+low,paid,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+negative,paid,other,unknown,low,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+low,paid,car,new,low,moderate,short,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+negative,paid,car,new,low,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,business,unknown,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,negative
+none,critical,car,new,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+none,delayed,business,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+low,paid,education,unknown,moderate,low,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+none,paid,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,negative
+moderate,paid,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,moderate-high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,business,unknown,moderate,low,medium,yes,male,single,senior,highly skilled,yes,unknown,positive
+low,paid,radio/tv,unknown,moderate,moderate,medium,yes,female,div/dep/mar,senior,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,low,short,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,moderate,N/A,no,female,div/dep/mar,young adult,skilled,no,unknown,negative
+moderate,paid,car,new,low,moderate,long,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+negative,paid,radio/tv,unknown,moderate,high,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,car,used,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,business,unknown,very high,none-found,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,delayed,radio/tv,unknown,high,none-found,medium,yes,male,single,young adult,highly skilled,yes,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,moderate,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,new,low,low,medium,yes,male,div/sep,adult,unskilled,no,resident,positive
+low,critical,business,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,car,new,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,business,unknown,moderate,none-found,medium,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,low,moderate,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+none,critical,household-equipment,unknown,moderate,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,education,unknown,moderate,none-found,long,yes,male,single,senior,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,low,none-found,short,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,new,low,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+none,paid,education,unknown,very high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,moderate-high,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,very high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,delayed,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,education,unknown,low,low,N/A,no,female,div/dep/mar,young adult,unskilled,no,non-resident,negative
+low,paid,repairs,unknown,low,low,long,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,education,unknown,moderate,moderate,medium,yes,male,single,adult,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,moderate,low,medium-long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,critical,radio/tv,unknown,moderate,low,medium-long,yes,male,mar/wid,adult,highly skilled,yes,unknown,positive
+none,delayed,business,unknown,high,none-found,short,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+none,paid,car,new,low,moderate-high,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+moderate,paid,car,new,low,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,education,unknown,low,low,medium,yes,male,single,adult,unskilled,no,resident,negative
+negative,paid,education,unknown,high,low,medium-long,yes,male,single,senior,highly skilled,yes,unknown,positive
+low,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,negative
+negative,paid,car,new,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+low,delayed,car,new,high,moderate,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+none,critical,car,used,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,moderate,low,N/A,no,male,single,young adult,skilled,no,unknown,positive
+low,paid,car,new,low,low,long,yes,male,single,adult,unskilled,no,resident,negative
+none,paid,radio/tv,unknown,very high,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,paid,car,new,low,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+none,paid,household-equipment,unknown,moderate,low,long,yes,male,single,senior,skilled,no,unknown,positive
+low,delayed,household-equipment,unknown,low,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+moderate,critical,education,unknown,low,low,medium,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+none,critical,other,unknown,high,low,N/A,no,male,single,young adult,highly skilled,yes,unknown,positive
+low,paid,household-equipment,unknown,moderate,high,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+moderate,critical,radio/tv,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,business,unknown,moderate,moderate,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,paid,business,unknown,high,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,new,very high,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,car,new,moderate,moderate-high,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,moderate-high,short,yes,male,single,adult,unskilled,no,resident,negative
+none,critical,radio/tv,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+none,critical,household-equipment,unknown,high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,high,moderate,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+negative,paid,radio/tv,unknown,moderate,low,long,yes,male,single,senior,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,education,unknown,moderate,low,short,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,low,low,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,high,low,short,yes,male,mar/wid,adult,skilled,no,unknown,positive
+low,delayed,business,unknown,high,moderate,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,car,new,high,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+moderate,critical,radio/tv,unknown,low,none-found,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+low,delayed,car,new,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,moderate,high,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,household-equipment,unknown,low,low,medium,yes,male,div/sep,young adult,skilled,no,unknown,positive
+low,paid,repairs,unknown,moderate,moderate,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,moderate,short,yes,male,single,young adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,none-found,short,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,car,used,low,moderate-high,medium,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,car,new,low,low,N/A,no,female,div/dep/mar,adult,unskilled,no,non-resident,positive
+none,critical,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+moderate,paid,education,unknown,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,household-equipment,unknown,low,moderate-high,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+negative,critical,car,used,high,low,long,yes,male,single,adult,skilled,no,unknown,negative
+moderate,paid,radio/tv,unknown,low,moderate,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,delayed,business,unknown,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,business,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,car,new,high,moderate-high,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,car,new,high,moderate,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,low,low,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,low,moderate-high,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,education,unknown,low,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,car,used,moderate,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,critical,radio/tv,unknown,low,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+low,paid,car,new,very high,low,medium-long,yes,male,single,young adult,highly skilled,yes,unknown,negative
+none,critical,car,used,high,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+moderate,critical,radio/tv,unknown,moderate,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,used,high,moderate,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,low,low,short,yes,male,single,adult,highly skilled,yes,unknown,negative
+low,paid,education,unknown,low,high,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,car,new,low,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,radio/tv,unknown,low,moderate-high,medium,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+none,paid,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,car,new,low,high,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,low,moderate-high,medium,yes,male,mar/wid,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,business,unknown,high,low,long,yes,female,div/dep/mar,senior,skilled,no,unknown,negative
+moderate,critical,business,unknown,low,high,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+low,delayed,radio/tv,unknown,high,low,short,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,negative
+low,paid,radio/tv,unknown,low,low,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,paid,car,used,moderate,high,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,car,new,moderate,low,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,none-found,short,yes,female,div/dep/mar,young adult,unskilled,no,non-resident,positive
+low,paid,car,used,very high,low,medium,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,negative
+negative,paid,car,new,moderate,moderate,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,car,new,high,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,business,unknown,moderate,moderate,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+negative,paid,car,new,moderate,moderate,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,moderate-high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+negative,critical,household-equipment,unknown,very high,none-found,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,critical,business,unknown,moderate,low,short,yes,male,single,young adult,unskilled,no,resident,positive
+negative,paid,car,new,moderate,low,N/A,no,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,short,yes,female,div/dep/mar,adult,unskilled,no,resident,negative
+none,paid,car,used,high,none-found,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,car,used,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,business,unknown,low,moderate,medium-long,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,high,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,repairs,unknown,moderate,high,long,yes,male,single,senior,skilled,no,unknown,negative
+negative,paid,car,new,low,none-found,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+moderate,critical,car,new,low,low,medium,yes,male,single,senior,unskilled,no,non-resident,positive
+moderate,critical,radio/tv,unknown,low,none-found,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,car,new,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,car,new,low,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,car,new,high,none-found,long,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+negative,critical,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,critical,car,new,very high,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+none,critical,car,new,moderate,moderate,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,long,yes,male,mar/wid,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,short,yes,male,div/sep,adult,unskilled,no,resident,negative
+none,paid,car,used,moderate,none-found,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,single,senior,unskilled,no,resident,positive
+negative,paid,car,used,moderate,none-found,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,critical,education,unknown,high,low,medium,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,negative
+none,critical,car,used,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,radio/tv,unknown,moderate,moderate,long,yes,male,single,senior,skilled,no,unknown,positive
+moderate,critical,car,new,low,moderate-high,N/A,no,male,single,senior,unskilled,no,non-resident,positive
+negative,paid,car,new,low,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,car,new,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,car,used,high,high,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+low,paid,repairs,unknown,moderate,low,N/A,no,female,div/dep/mar,senior,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+none,critical,car,new,moderate,high,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,retraining,unknown,low,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,car,new,low,moderate,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,car,used,high,none-found,N/A,no,male,div/sep,senior,highly skilled,yes,unknown,positive
+low,paid,business,unknown,moderate,high,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,used,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+low,delayed,education,unknown,high,low,long,yes,male,single,senior,skilled,no,unknown,negative
+negative,critical,education,unknown,high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,business,unknown,low,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,car,used,high,none-found,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,household-equipment,unknown,low,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+moderate,paid,household-equipment,unknown,moderate,low,long,yes,male,div/sep,senior,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,moderate,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,car,used,high,none-found,long,yes,male,single,senior,skilled,no,unknown,negative
+none,critical,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+none,delayed,car,new,low,none-found,long,yes,male,mar/wid,senior,skilled,no,unknown,positive
+low,paid,car,new,moderate,none-found,short,yes,male,single,adult,unskilled,no,non-resident,positive
+none,critical,education,unknown,moderate,low,long,yes,male,single,senior,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,critical,household-equipment,unknown,moderate,low,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,car,new,high,none-found,N/A,no,female,div/dep/mar,young adult,unskilled,no,non-resident,positive
+negative,paid,car,new,high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,low,low,short,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+none,critical,radio/tv,unknown,low,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+low,paid,car,used,high,low,N/A,no,male,single,senior,highly skilled,yes,unknown,positive
+low,paid,car,new,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,non-resident,negative
+low,paid,business,unknown,low,low,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+low,paid,radio/tv,unknown,low,low,medium-long,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+negative,critical,car,used,high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,senior,skilled,no,unknown,negative
+negative,paid,car,new,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+low,delayed,car,new,high,low,medium,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,low,moderate-high,medium,yes,male,div/sep,senior,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,medium-long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,other,unknown,very high,low,N/A,no,male,div/sep,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+none,paid,car,new,low,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+negative,critical,car,new,low,low,long,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,household-equipment,unknown,moderate,low,short,yes,male,div/sep,adult,highly skilled,yes,unknown,positive
+negative,critical,car,new,moderate,low,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,long,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,paid,business,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+negative,paid,car,used,high,none-found,long,yes,male,single,adult,skilled,no,unknown,negative
+low,delayed,business,unknown,high,none-found,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,moderate-high,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+negative,paid,business,unknown,very high,low,long,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,radio/tv,unknown,high,none-found,long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+negative,paid,car,new,low,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,low,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,positive
+negative,critical,car,used,moderate,low,long,yes,male,single,senior,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,high,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+none,delayed,car,used,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+none,paid,repairs,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,business,unknown,moderate,low,medium-long,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,household-equipment,unknown,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,new,high,none-found,medium,yes,male,single,senior,skilled,no,unknown,negative
+none,paid,car,new,low,low,short,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium-long,yes,male,single,senior,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,low,long,yes,male,single,senior,unskilled,no,resident,negative
+negative,critical,car,new,moderate,low,medium,yes,male,mar/wid,adult,skilled,no,unknown,negative
+none,critical,car,used,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,medium-long,yes,male,single,adult,unskilled,no,resident,negative
+none,delayed,car,new,very high,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,new,low,moderate,short,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,paid,retraining,unknown,low,none-found,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,paid,car,new,moderate,moderate,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,critical,car,used,high,high,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,delayed,business,unknown,moderate,low,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+negative,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,negative
+none,critical,household-equipment,unknown,moderate,high,short,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,negative
+none,paid,household-equipment,unknown,moderate,moderate-high,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,critical,household-equipment,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,business,unknown,high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,low,low,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,household-equipment,unknown,high,moderate-high,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+moderate,critical,car,new,low,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,business,unknown,low,moderate,medium-long,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,low,none-found,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,young adult,unskilled,no,resident,positive
+low,critical,car,new,low,high,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,short,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,moderate,low,long,yes,male,single,young adult,skilled,no,unknown,positive
+negative,paid,car,new,low,low,short,yes,male,single,young adult,highly skilled,yes,unknown,negative
+none,critical,radio/tv,unknown,high,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,car,used,high,low,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,used,high,none-found,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+low,critical,car,new,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,low,N/A,no,female,div/dep/mar,senior,unskilled,no,non-resident,positive
+low,paid,household-equipment,unknown,moderate,low,medium-long,yes,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,education,unknown,low,low,short,yes,female,div/dep/mar,senior,skilled,no,unknown,negative
+low,critical,business,unknown,moderate,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+low,paid,business,unknown,very high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,critical,car,new,high,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,used,high,none-found,short,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,business,unknown,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,critical,car,used,high,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,none-found,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,delayed,car,used,high,none-found,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+none,critical,household-equipment,unknown,moderate,high,medium-long,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,none-found,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+negative,critical,car,new,moderate,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,car,new,moderate,none-found,short,yes,male,div/sep,adult,skilled,no,unknown,positive
+none,critical,car,used,very high,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,none-found,medium,yes,male,mar/wid,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,low,long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium,yes,male,single,young adult,highly skilled,yes,unknown,positive
+negative,paid,car,new,moderate,none-found,medium-long,yes,male,single,young adult,unskilled,no,resident,positive
+low,paid,education,unknown,moderate,none-found,medium,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+none,delayed,car,used,moderate,low,short,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+low,paid,car,new,moderate,none-found,medium,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+none,delayed,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,critical,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,radio/tv,unknown,moderate,none-found,long,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,business,unknown,moderate,high,long,yes,male,div/sep,young adult,skilled,no,unknown,positive
+negative,paid,business,unknown,moderate,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+low,paid,other,unknown,very high,low,medium,yes,female,div/dep/mar,adult,highly skilled,yes,unknown,negative
+none,paid,car,used,moderate,moderate,medium,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,car,new,very high,low,long,yes,male,single,senior,highly skilled,yes,unknown,negative
+negative,paid,household-equipment,unknown,moderate,moderate,N/A,no,male,div/sep,adult,skilled,no,unknown,negative
+negative,paid,household-equipment,unknown,moderate,low,long,yes,male,single,adult,highly skilled,yes,unknown,negative
+none,critical,household-equipment,unknown,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,delayed,radio/tv,unknown,very high,moderate-high,medium-long,yes,male,single,adult,highly skilled,yes,unknown,positive
+negative,paid,radio/tv,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+low,paid,car,new,moderate,low,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,high,low,short,yes,male,div/sep,senior,skilled,no,unknown,negative
+negative,paid,car,new,low,low,short,yes,male,single,adult,skilled,no,unknown,negative
+negative,critical,household-equipment,unknown,low,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,paid,car,used,very high,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,radio/tv,unknown,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+negative,delayed,car,new,low,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,short,yes,male,single,young adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,low,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,negative
+none,critical,car,new,low,low,medium,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,low,moderate-high,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,delayed,radio/tv,unknown,moderate,moderate,short,yes,male,single,adult,highly skilled,yes,unknown,negative
+moderate,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,young adult,unskilled,no,resident,negative
+low,paid,radio/tv,unknown,moderate,low,short,yes,male,mar/wid,adult,highly skilled,yes,unknown,positive
+low,paid,education,unknown,high,low,medium,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,car,used,high,none-found,medium,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,new,moderate,none-found,short,yes,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,new,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,household-equipment,unknown,low,none-found,medium-long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,car,new,low,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+low,paid,car,new,high,moderate-high,short,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+negative,paid,household-equipment,unknown,moderate,moderate-high,short,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,car,new,moderate,none-found,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,short,yes,male,mar/wid,adult,unskilled,no,resident,negative
+none,paid,radio/tv,unknown,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,negative
+low,critical,business,unknown,moderate,low,N/A,no,male,mar/wid,adult,unskilled,no,non-resident,positive
+negative,delayed,business,unknown,moderate,low,medium-long,yes,male,single,young adult,skilled,no,unknown,negative
+low,paid,car,used,moderate,moderate-high,short,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,very high,low,N/A,no,female,div/dep/mar,young adult,highly skilled,yes,unknown,negative
+negative,paid,car,new,moderate,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+negative,critical,radio/tv,unknown,low,high,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+moderate,critical,radio/tv,unknown,moderate,none-found,long,yes,male,single,adult,unskilled,no,resident,positive
+low,critical,radio/tv,unknown,low,low,long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,car,new,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,negative
+low,paid,household-equipment,unknown,moderate,moderate,long,yes,male,single,adult,skilled,no,unknown,positive
+none,critical,radio/tv,unknown,moderate,low,long,yes,male,mar/wid,adult,skilled,no,unknown,positive
+low,delayed,car,new,moderate,low,medium,yes,male,div/sep,adult,skilled,no,unknown,positive
+none,paid,car,new,moderate,none-found,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,moderate,moderate-high,long,yes,male,single,adult,skilled,no,unknown,negative
+low,paid,repairs,unknown,low,low,short,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,moderate,none-found,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+low,critical,radio/tv,unknown,moderate,moderate-high,medium,yes,male,single,young adult,unskilled,no,resident,negative
+none,paid,radio/tv,unknown,moderate,low,long,yes,female,div/dep/mar,senior,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,high,none-found,medium-long,yes,male,mar/wid,young adult,skilled,no,unknown,positive
+negative,critical,car,new,moderate,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+low,paid,repairs,unknown,moderate,moderate,medium,yes,male,single,young adult,skilled,no,unknown,positive
+none,paid,car,new,high,low,medium,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,car,new,low,low,N/A,no,female,div/dep/mar,young adult,unskilled,no,non-resident,negative
+negative,paid,business,unknown,high,low,long,yes,male,single,adult,skilled,no,unknown,negative
+none,critical,radio/tv,unknown,moderate,low,medium,yes,female,div/dep/mar,adult,skilled,no,unknown,positive
+moderate,paid,radio/tv,unknown,low,moderate-high,medium,yes,female,div/dep/mar,senior,unskilled,no,resident,positive
+low,paid,radio/tv,unknown,low,low,medium,yes,female,div/dep/mar,senior,skilled,no,unknown,positive
+low,delayed,business,unknown,moderate,none-found,long,yes,male,single,adult,skilled,no,unknown,positive
+none,delayed,car,new,moderate,low,long,yes,male,single,adult,unskilled,no,resident,negative
+low,paid,car,new,low,moderate,medium,yes,male,mar/wid,young adult,skilled,no,unknown,negative
+low,critical,household-equipment,unknown,high,low,medium-long,yes,male,single,adult,skilled,no,unknown,negative
+none,paid,business,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,negative
+moderate,paid,car,new,moderate,moderate,medium,yes,female,div/dep/mar,young adult,highly skilled,yes,unknown,positive
+negative,paid,car,used,high,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+none,critical,household-equipment,unknown,moderate,low,medium-long,yes,male,single,adult,unskilled,no,resident,positive
+negative,critical,household-equipment,unknown,low,low,medium,yes,female,div/dep/mar,young adult,skilled,no,unknown,positive
+moderate,paid,business,unknown,high,low,short,yes,male,div/sep,adult,skilled,no,unknown,positive
+none,paid,radio/tv,unknown,low,moderate,N/A,no,female,div/dep/mar,senior,skilled,no,unknown,positive
+negative,paid,car,used,high,low,N/A,no,male,single,young adult,highly skilled,yes,unknown,positive
+low,critical,radio/tv,unknown,moderate,low,long,yes,male,single,adult,unskilled,no,resident,positive
+none,critical,education,unknown,moderate,none-found,short,yes,male,single,adult,unskilled,no,resident,positive
+none,paid,radio/tv,unknown,moderate,moderate,long,yes,male,single,adult,unskilled,no,resident,positive
+negative,paid,radio/tv,unknown,moderate,none-found,medium-long,yes,male,mar/wid,young adult,unskilled,no,resident,positive
+negative,paid,household-equipment,unknown,moderate,low,N/A,no,male,single,adult,highly skilled,yes,unknown,positive
+none,paid,car,new,moderate,none-found,long,yes,male,single,senior,skilled,no,unknown,positive
+none,paid,household-equipment,unknown,moderate,low,medium-long,yes,female,div/dep/mar,adult,unskilled,no,resident,positive
+negative,paid,car,used,moderate,low,medium,yes,male,div/sep,adult,highly skilled,yes,unknown,positive
+none,paid,radio/tv,unknown,low,low,long,yes,male,single,adult,skilled,no,unknown,positive
+negative,paid,radio/tv,unknown,moderate,low,medium,yes,male,single,young adult,skilled,no,unknown,negative
+low,critical,car,used,moderate,moderate,N/A,no,male,single,young adult,skilled,no,unknown,positive
