@@ -204,7 +204,7 @@ else:
 [Figure 2D] - Credit Item Category Transformation
 ```python
 mapping = {'business': 0, 'car': 1, 'education': 2, 'eduction': 3, 'household-equipment': 4, 
-           'now car': 5, 'other': 6, 'radio/tv': 7, 'repairs': 8, 'retraining': 9}
+           'other': 5, 'radio/tv': 6, 'repairs': 7, 'retraining': 8}
 return mapping.get(value, value)
 ```
 [Figure 2E] - Credit Item Condition Transformation
